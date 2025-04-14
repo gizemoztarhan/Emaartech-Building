@@ -15,10 +15,10 @@ This project is a modern website for showing real estate. It has a clean and eas
 
 ## 🛠️ Technologies
 
-| 💻 HTML5         | Page structure               |
-| 🎨 CSS3          | Styling and appearance       |
-| 🅱️ Bootstrap 5   | For responsive design        |
-| ⭐ Font Awesome  | For icons                    |
+🔹💻 **HTML5**: Page structure               
+🔹🎨 **CSS3**: Styling and appearance       
+🔹🅱️ **Bootstrap 5**: For responsive design        
+🔹⭐ **Font Awesome**: For icons                    
 
 ---
 
